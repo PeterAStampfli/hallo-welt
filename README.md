@@ -1,2 +1,3 @@
 # hallo-welt
-Simply learning (versuch's und verfluch's und beginne wieder)
+Simply learning (Versuch's und verfluch's und beginne wieder.)
+Es geht weiter, auch wenn es harzt.
